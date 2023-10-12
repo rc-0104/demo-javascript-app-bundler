@@ -1,8 +1,3 @@
-import './styles/styles.scss';
-import './styles/styles2.scss';
-import './styles/styles.less';
-import './styles/styles2.less';
-
 import {sayHello} from "./sayHello";
 
 document.getElementById('nameForm').addEventListener('submit', function(e) {

@@ -6,7 +6,7 @@ const autoprefixer = require('gulp-autoprefixer');
 const cssnano = require('gulp-cssnano');
 const rename = require('gulp-rename');
 
-// Utilisez gulpSass avec le compilateur Dart Sass
+
 const sass = gulpSass( dartSass );
 
 // Tâche pour compiler les fichiers SASS
